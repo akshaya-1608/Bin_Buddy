@@ -1,0 +1,1591 @@
+{
+  "plastic": [
+    {
+      "name": "Plastic Center 1",
+      "lat": 17.3449,
+      "lng": 78.4712
+    },
+    {
+      "name": "Plastic Center 2",
+      "lat": 17.3019,
+      "lng": 78.5486
+    },
+    {
+      "name": "Plastic Center 3",
+      "lat": 17.4424,
+      "lng": 78.5387
+    },
+    {
+      "name": "Plastic Center 4",
+      "lat": 17.441,
+      "lng": 78.447
+    },
+    {
+      "name": "Plastic Center 5",
+      "lat": 17.4185,
+      "lng": 78.4859
+    },
+    {
+      "name": "Plastic Center 6",
+      "lat": 17.4876,
+      "lng": 78.45
+    },
+    {
+      "name": "Plastic Center 7",
+      "lat": 17.4021,
+      "lng": 78.4593
+    },
+    {
+      "name": "Plastic Center 8",
+      "lat": 17.4583,
+      "lng": 78.409
+    },
+    {
+      "name": "Plastic Center 9",
+      "lat": 17.4136,
+      "lng": 78.5183
+    },
+    {
+      "name": "Plastic Center 10",
+      "lat": 17.4935,
+      "lng": 78.4864
+    },
+    {
+      "name": "Plastic Center 11",
+      "lat": 17.3973,
+      "lng": 78.4588
+    },
+    {
+      "name": "Plastic Center 12",
+      "lat": 17.3412,
+      "lng": 78.5069
+    },
+    {
+      "name": "Plastic Center 13",
+      "lat": 17.3323,
+      "lng": 78.5431
+    },
+    {
+      "name": "Plastic Center 14",
+      "lat": 17.3345,
+      "lng": 78.4649
+    },
+    {
+      "name": "Plastic Center 15",
+      "lat": 17.3679,
+      "lng": 78.4378
+    },
+    {
+      "name": "Plastic Center 16",
+      "lat": 17.3031,
+      "lng": 78.39
+    },
+    {
+      "name": "Plastic Center 17",
+      "lat": 17.3598,
+      "lng": 78.523
+    },
+    {
+      "name": "Plastic Center 18",
+      "lat": 17.4265,
+      "lng": 78.501
+    },
+    {
+      "name": "Plastic Center 19",
+      "lat": 17.4511,
+      "lng": 78.5468
+    },
+    {
+      "name": "Plastic Center 20",
+      "lat": 17.3224,
+      "lng": 78.3837
+    },
+    {
+      "name": "Plastic Center 21",
+      "lat": 17.3643,
+      "lng": 78.4152
+    },
+    {
+      "name": "Plastic Center 22",
+      "lat": 17.3993,
+      "lng": 78.5295
+    },
+    {
+      "name": "Plastic Center 23",
+      "lat": 17.4959,
+      "lng": 78.5587
+    },
+    {
+      "name": "Plastic Center 24",
+      "lat": 17.452,
+      "lng": 78.5166
+    },
+    {
+      "name": "Plastic Center 25",
+      "lat": 17.356,
+      "lng": 78.4935
+    },
+    {
+      "name": "Plastic Center 26",
+      "lat": 17.4489,
+      "lng": 78.4957
+    },
+    {
+      "name": "Plastic Center 27",
+      "lat": 17.4867,
+      "lng": 78.5414
+    },
+    {
+      "name": "Plastic Center 28",
+      "lat": 17.4118,
+      "lng": 78.4421
+    },
+    {
+      "name": "Plastic Center 29",
+      "lat": 17.3856,
+      "lng": 78.3757
+    },
+    {
+      "name": "Plastic Center 30",
+      "lat": 17.4001,
+      "lng": 78.366
+    },
+    {
+      "name": "Plastic Center 31",
+      "lat": 17.4842,
+      "lng": 78.4875
+    },
+    {
+      "name": "Plastic Center 32",
+      "lat": 17.4432,
+      "lng": 78.5331
+    },
+    {
+      "name": "Plastic Center 33",
+      "lat": 17.4704,
+      "lng": 78.4787
+    },
+    {
+      "name": "Plastic Center 34",
+      "lat": 17.418,
+      "lng": 78.3798
+    },
+    {
+      "name": "Plastic Center 35",
+      "lat": 17.3112,
+      "lng": 78.3782
+    },
+    {
+      "name": "Plastic Center 36",
+      "lat": 17.4086,
+      "lng": 78.5402
+    },
+    {
+      "name": "Plastic Center 37",
+      "lat": 17.3531,
+      "lng": 78.4256
+    },
+    {
+      "name": "Plastic Center 38",
+      "lat": 17.4817,
+      "lng": 78.3661
+    },
+    {
+      "name": "Plastic Center 39",
+      "lat": 17.4473,
+      "lng": 78.4068
+    },
+    {
+      "name": "Plastic Center 40",
+      "lat": 17.3849,
+      "lng": 78.5477
+    },
+    {
+      "name": "Plastic Center 41",
+      "lat": 17.4639,
+      "lng": 78.5487
+    },
+    {
+      "name": "Plastic Center 42",
+      "lat": 17.3375,
+      "lng": 78.4047
+    },
+    {
+      "name": "Plastic Center 43",
+      "lat": 17.3235,
+      "lng": 78.4324
+    },
+    {
+      "name": "Plastic Center 44",
+      "lat": 17.3112,
+      "lng": 78.4762
+    },
+    {
+      "name": "Plastic Center 45",
+      "lat": 17.4934,
+      "lng": 78.4921
+    }
+  ],
+  "glass": [
+    {
+      "name": "Glass Center 1",
+      "lat": 17.4112,
+      "lng": 78.3972
+    },
+    {
+      "name": "Glass Center 2",
+      "lat": 17.3288,
+      "lng": 78.4677
+    },
+    {
+      "name": "Glass Center 3",
+      "lat": 17.4792,
+      "lng": 78.4674
+    },
+    {
+      "name": "Glass Center 4",
+      "lat": 17.323,
+      "lng": 78.5556
+    },
+    {
+      "name": "Glass Center 5",
+      "lat": 17.3012,
+      "lng": 78.364
+    },
+    {
+      "name": "Glass Center 6",
+      "lat": 17.4355,
+      "lng": 78.3863
+    },
+    {
+      "name": "Glass Center 7",
+      "lat": 17.3796,
+      "lng": 78.5397
+    },
+    {
+      "name": "Glass Center 8",
+      "lat": 17.3296,
+      "lng": 78.4732
+    },
+    {
+      "name": "Glass Center 9",
+      "lat": 17.4538,
+      "lng": 78.3963
+    },
+    {
+      "name": "Glass Center 10",
+      "lat": 17.4813,
+      "lng": 78.4249
+    },
+    {
+      "name": "Glass Center 11",
+      "lat": 17.4414,
+      "lng": 78.5388
+    },
+    {
+      "name": "Glass Center 12",
+      "lat": 17.4418,
+      "lng": 78.3704
+    },
+    {
+      "name": "Glass Center 13",
+      "lat": 17.3605,
+      "lng": 78.4319
+    },
+    {
+      "name": "Glass Center 14",
+      "lat": 17.4435,
+      "lng": 78.4816
+    },
+    {
+      "name": "Glass Center 15",
+      "lat": 17.443,
+      "lng": 78.5064
+    },
+    {
+      "name": "Glass Center 16",
+      "lat": 17.468,
+      "lng": 78.4594
+    },
+    {
+      "name": "Glass Center 17",
+      "lat": 17.4539,
+      "lng": 78.5109
+    },
+    {
+      "name": "Glass Center 18",
+      "lat": 17.3984,
+      "lng": 78.5344
+    },
+    {
+      "name": "Glass Center 19",
+      "lat": 17.3082,
+      "lng": 78.5228
+    },
+    {
+      "name": "Glass Center 20",
+      "lat": 17.4559,
+      "lng": 78.5592
+    },
+    {
+      "name": "Glass Center 21",
+      "lat": 17.3469,
+      "lng": 78.5393
+    },
+    {
+      "name": "Glass Center 22",
+      "lat": 17.32,
+      "lng": 78.3798
+    },
+    {
+      "name": "Glass Center 23",
+      "lat": 17.4529,
+      "lng": 78.4987
+    },
+    {
+      "name": "Glass Center 24",
+      "lat": 17.4414,
+      "lng": 78.4711
+    },
+    {
+      "name": "Glass Center 25",
+      "lat": 17.4673,
+      "lng": 78.4594
+    },
+    {
+      "name": "Glass Center 26",
+      "lat": 17.3767,
+      "lng": 78.4947
+    },
+    {
+      "name": "Glass Center 27",
+      "lat": 17.487,
+      "lng": 78.5291
+    },
+    {
+      "name": "Glass Center 28",
+      "lat": 17.3357,
+      "lng": 78.4422
+    },
+    {
+      "name": "Glass Center 29",
+      "lat": 17.3724,
+      "lng": 78.4487
+    },
+    {
+      "name": "Glass Center 30",
+      "lat": 17.387,
+      "lng": 78.5458
+    },
+    {
+      "name": "Glass Center 31",
+      "lat": 17.4353,
+      "lng": 78.4256
+    },
+    {
+      "name": "Glass Center 32",
+      "lat": 17.3213,
+      "lng": 78.4351
+    },
+    {
+      "name": "Glass Center 33",
+      "lat": 17.4894,
+      "lng": 78.3677
+    },
+    {
+      "name": "Glass Center 34",
+      "lat": 17.3107,
+      "lng": 78.4507
+    },
+    {
+      "name": "Glass Center 35",
+      "lat": 17.3324,
+      "lng": 78.3705
+    },
+    {
+      "name": "Glass Center 36",
+      "lat": 17.3639,
+      "lng": 78.5179
+    },
+    {
+      "name": "Glass Center 37",
+      "lat": 17.3532,
+      "lng": 78.4964
+    },
+    {
+      "name": "Glass Center 38",
+      "lat": 17.3842,
+      "lng": 78.4216
+    },
+    {
+      "name": "Glass Center 39",
+      "lat": 17.4775,
+      "lng": 78.4541
+    },
+    {
+      "name": "Glass Center 40",
+      "lat": 17.3593,
+      "lng": 78.4898
+    },
+    {
+      "name": "Glass Center 41",
+      "lat": 17.3268,
+      "lng": 78.4949
+    },
+    {
+      "name": "Glass Center 42",
+      "lat": 17.3664,
+      "lng": 78.532
+    },
+    {
+      "name": "Glass Center 43",
+      "lat": 17.3711,
+      "lng": 78.539
+    },
+    {
+      "name": "Glass Center 44",
+      "lat": 17.3169,
+      "lng": 78.4858
+    },
+    {
+      "name": "Glass Center 45",
+      "lat": 17.4029,
+      "lng": 78.4601
+    }
+  ],
+  "metal": [
+    {
+      "name": "Metal Center 1",
+      "lat": 17.3095,
+      "lng": 78.5454
+    },
+    {
+      "name": "Metal Center 2",
+      "lat": 17.3084,
+      "lng": 78.5042
+    },
+    {
+      "name": "Metal Center 3",
+      "lat": 17.3112,
+      "lng": 78.5268
+    },
+    {
+      "name": "Metal Center 4",
+      "lat": 17.42,
+      "lng": 78.4509
+    },
+    {
+      "name": "Metal Center 5",
+      "lat": 17.4217,
+      "lng": 78.5314
+    },
+    {
+      "name": "Metal Center 6",
+      "lat": 17.463,
+      "lng": 78.408
+    },
+    {
+      "name": "Metal Center 7",
+      "lat": 17.4789,
+      "lng": 78.4359
+    },
+    {
+      "name": "Metal Center 8",
+      "lat": 17.4586,
+      "lng": 78.363
+    },
+    {
+      "name": "Metal Center 9",
+      "lat": 17.3695,
+      "lng": 78.551
+    },
+    {
+      "name": "Metal Center 10",
+      "lat": 17.3931,
+      "lng": 78.549
+    },
+    {
+      "name": "Metal Center 11",
+      "lat": 17.3178,
+      "lng": 78.53
+    },
+    {
+      "name": "Metal Center 12",
+      "lat": 17.4429,
+      "lng": 78.3799
+    },
+    {
+      "name": "Metal Center 13",
+      "lat": 17.3301,
+      "lng": 78.4196
+    },
+    {
+      "name": "Metal Center 14",
+      "lat": 17.3425,
+      "lng": 78.536
+    },
+    {
+      "name": "Metal Center 15",
+      "lat": 17.4011,
+      "lng": 78.5394
+    },
+    {
+      "name": "Metal Center 16",
+      "lat": 17.4575,
+      "lng": 78.3972
+    },
+    {
+      "name": "Metal Center 17",
+      "lat": 17.3706,
+      "lng": 78.3792
+    },
+    {
+      "name": "Metal Center 18",
+      "lat": 17.3859,
+      "lng": 78.539
+    },
+    {
+      "name": "Metal Center 19",
+      "lat": 17.4719,
+      "lng": 78.4271
+    },
+    {
+      "name": "Metal Center 20",
+      "lat": 17.4685,
+      "lng": 78.5052
+    },
+    {
+      "name": "Metal Center 21",
+      "lat": 17.3457,
+      "lng": 78.3829
+    },
+    {
+      "name": "Metal Center 22",
+      "lat": 17.42,
+      "lng": 78.3769
+    },
+    {
+      "name": "Metal Center 23",
+      "lat": 17.4923,
+      "lng": 78.5045
+    },
+    {
+      "name": "Metal Center 24",
+      "lat": 17.4833,
+      "lng": 78.514
+    },
+    {
+      "name": "Metal Center 25",
+      "lat": 17.4229,
+      "lng": 78.3694
+    },
+    {
+      "name": "Metal Center 26",
+      "lat": 17.3228,
+      "lng": 78.3929
+    },
+    {
+      "name": "Metal Center 27",
+      "lat": 17.3581,
+      "lng": 78.3645
+    },
+    {
+      "name": "Metal Center 28",
+      "lat": 17.3341,
+      "lng": 78.4155
+    },
+    {
+      "name": "Metal Center 29",
+      "lat": 17.3884,
+      "lng": 78.5533
+    },
+    {
+      "name": "Metal Center 30",
+      "lat": 17.4379,
+      "lng": 78.3967
+    },
+    {
+      "name": "Metal Center 31",
+      "lat": 17.3449,
+      "lng": 78.3902
+    },
+    {
+      "name": "Metal Center 32",
+      "lat": 17.4862,
+      "lng": 78.5026
+    },
+    {
+      "name": "Metal Center 33",
+      "lat": 17.3736,
+      "lng": 78.4243
+    },
+    {
+      "name": "Metal Center 34",
+      "lat": 17.496,
+      "lng": 78.557
+    },
+    {
+      "name": "Metal Center 35",
+      "lat": 17.3179,
+      "lng": 78.4307
+    },
+    {
+      "name": "Metal Center 36",
+      "lat": 17.4675,
+      "lng": 78.3734
+    },
+    {
+      "name": "Metal Center 37",
+      "lat": 17.332,
+      "lng": 78.3942
+    },
+    {
+      "name": "Metal Center 38",
+      "lat": 17.4232,
+      "lng": 78.4167
+    },
+    {
+      "name": "Metal Center 39",
+      "lat": 17.3659,
+      "lng": 78.3981
+    },
+    {
+      "name": "Metal Center 40",
+      "lat": 17.4102,
+      "lng": 78.5085
+    },
+    {
+      "name": "Metal Center 41",
+      "lat": 17.4792,
+      "lng": 78.4375
+    },
+    {
+      "name": "Metal Center 42",
+      "lat": 17.403,
+      "lng": 78.524
+    },
+    {
+      "name": "Metal Center 43",
+      "lat": 17.4465,
+      "lng": 78.5496
+    },
+    {
+      "name": "Metal Center 44",
+      "lat": 17.4684,
+      "lng": 78.3666
+    },
+    {
+      "name": "Metal Center 45",
+      "lat": 17.4655,
+      "lng": 78.5344
+    }
+  ],
+  "paper": [
+    {
+      "name": "Paper Center 1",
+      "lat": 17.327,
+      "lng": 78.3835
+    },
+    {
+      "name": "Paper Center 2",
+      "lat": 17.3688,
+      "lng": 78.3664
+    },
+    {
+      "name": "Paper Center 3",
+      "lat": 17.399,
+      "lng": 78.4249
+    },
+    {
+      "name": "Paper Center 4",
+      "lat": 17.3458,
+      "lng": 78.538
+    },
+    {
+      "name": "Paper Center 5",
+      "lat": 17.3242,
+      "lng": 78.5326
+    },
+    {
+      "name": "Paper Center 6",
+      "lat": 17.4502,
+      "lng": 78.4163
+    },
+    {
+      "name": "Paper Center 7",
+      "lat": 17.4994,
+      "lng": 78.4978
+    },
+    {
+      "name": "Paper Center 8",
+      "lat": 17.4799,
+      "lng": 78.4962
+    },
+    {
+      "name": "Paper Center 9",
+      "lat": 17.4072,
+      "lng": 78.3736
+    },
+    {
+      "name": "Paper Center 10",
+      "lat": 17.4738,
+      "lng": 78.5133
+    },
+    {
+      "name": "Paper Center 11",
+      "lat": 17.3862,
+      "lng": 78.372
+    },
+    {
+      "name": "Paper Center 12",
+      "lat": 17.4295,
+      "lng": 78.4532
+    },
+    {
+      "name": "Paper Center 13",
+      "lat": 17.4653,
+      "lng": 78.4971
+    },
+    {
+      "name": "Paper Center 14",
+      "lat": 17.4897,
+      "lng": 78.5259
+    },
+    {
+      "name": "Paper Center 15",
+      "lat": 17.304,
+      "lng": 78.5184
+    },
+    {
+      "name": "Paper Center 16",
+      "lat": 17.3511,
+      "lng": 78.4134
+    },
+    {
+      "name": "Paper Center 17",
+      "lat": 17.3653,
+      "lng": 78.3709
+    },
+    {
+      "name": "Paper Center 18",
+      "lat": 17.4935,
+      "lng": 78.4999
+    },
+    {
+      "name": "Paper Center 19",
+      "lat": 17.4107,
+      "lng": 78.5362
+    },
+    {
+      "name": "Paper Center 20",
+      "lat": 17.3485,
+      "lng": 78.4792
+    },
+    {
+      "name": "Paper Center 21",
+      "lat": 17.4026,
+      "lng": 78.3635
+    },
+    {
+      "name": "Paper Center 22",
+      "lat": 17.4074,
+      "lng": 78.5343
+    },
+    {
+      "name": "Paper Center 23",
+      "lat": 17.4035,
+      "lng": 78.4378
+    },
+    {
+      "name": "Paper Center 24",
+      "lat": 17.4462,
+      "lng": 78.366
+    },
+    {
+      "name": "Paper Center 25",
+      "lat": 17.4989,
+      "lng": 78.3963
+    },
+    {
+      "name": "Paper Center 26",
+      "lat": 17.4002,
+      "lng": 78.385
+    },
+    {
+      "name": "Paper Center 27",
+      "lat": 17.3341,
+      "lng": 78.5241
+    },
+    {
+      "name": "Paper Center 28",
+      "lat": 17.4546,
+      "lng": 78.477
+    },
+    {
+      "name": "Paper Center 29",
+      "lat": 17.4921,
+      "lng": 78.5228
+    },
+    {
+      "name": "Paper Center 30",
+      "lat": 17.4622,
+      "lng": 78.3819
+    },
+    {
+      "name": "Paper Center 31",
+      "lat": 17.383,
+      "lng": 78.4579
+    },
+    {
+      "name": "Paper Center 32",
+      "lat": 17.4401,
+      "lng": 78.465
+    },
+    {
+      "name": "Paper Center 33",
+      "lat": 17.4197,
+      "lng": 78.4077
+    },
+    {
+      "name": "Paper Center 34",
+      "lat": 17.3255,
+      "lng": 78.45
+    },
+    {
+      "name": "Paper Center 35",
+      "lat": 17.404,
+      "lng": 78.4813
+    },
+    {
+      "name": "Paper Center 36",
+      "lat": 17.4628,
+      "lng": 78.4696
+    },
+    {
+      "name": "Paper Center 37",
+      "lat": 17.3068,
+      "lng": 78.4523
+    },
+    {
+      "name": "Paper Center 38",
+      "lat": 17.4032,
+      "lng": 78.4242
+    },
+    {
+      "name": "Paper Center 39",
+      "lat": 17.4171,
+      "lng": 78.5376
+    },
+    {
+      "name": "Paper Center 40",
+      "lat": 17.4206,
+      "lng": 78.5598
+    },
+    {
+      "name": "Paper Center 41",
+      "lat": 17.4408,
+      "lng": 78.4802
+    },
+    {
+      "name": "Paper Center 42",
+      "lat": 17.3206,
+      "lng": 78.4792
+    },
+    {
+      "name": "Paper Center 43",
+      "lat": 17.389,
+      "lng": 78.5033
+    },
+    {
+      "name": "Paper Center 44",
+      "lat": 17.4573,
+      "lng": 78.4092
+    },
+    {
+      "name": "Paper Center 45",
+      "lat": 17.4202,
+      "lng": 78.3695
+    }
+  ],
+  "cardboard": [
+    {
+      "name": "Cardboard Center 1",
+      "lat": 17.3402,
+      "lng": 78.3749
+    },
+    {
+      "name": "Cardboard Center 2",
+      "lat": 17.3832,
+      "lng": 78.3919
+    },
+    {
+      "name": "Cardboard Center 3",
+      "lat": 17.3577,
+      "lng": 78.3648
+    },
+    {
+      "name": "Cardboard Center 4",
+      "lat": 17.4068,
+      "lng": 78.408
+    },
+    {
+      "name": "Cardboard Center 5",
+      "lat": 17.4907,
+      "lng": 78.3773
+    },
+    {
+      "name": "Cardboard Center 6",
+      "lat": 17.4071,
+      "lng": 78.5587
+    },
+    {
+      "name": "Cardboard Center 7",
+      "lat": 17.3841,
+      "lng": 78.497
+    },
+    {
+      "name": "Cardboard Center 8",
+      "lat": 17.3483,
+      "lng": 78.3961
+    },
+    {
+      "name": "Cardboard Center 9",
+      "lat": 17.4378,
+      "lng": 78.3801
+    },
+    {
+      "name": "Cardboard Center 10",
+      "lat": 17.3196,
+      "lng": 78.4452
+    },
+    {
+      "name": "Cardboard Center 11",
+      "lat": 17.4224,
+      "lng": 78.4692
+    },
+    {
+      "name": "Cardboard Center 12",
+      "lat": 17.4954,
+      "lng": 78.5291
+    },
+    {
+      "name": "Cardboard Center 13",
+      "lat": 17.4668,
+      "lng": 78.3988
+    },
+    {
+      "name": "Cardboard Center 14",
+      "lat": 17.3763,
+      "lng": 78.5045
+    },
+    {
+      "name": "Cardboard Center 15",
+      "lat": 17.4386,
+      "lng": 78.4717
+    },
+    {
+      "name": "Cardboard Center 16",
+      "lat": 17.3846,
+      "lng": 78.4057
+    },
+    {
+      "name": "Cardboard Center 17",
+      "lat": 17.3471,
+      "lng": 78.4195
+    },
+    {
+      "name": "Cardboard Center 18",
+      "lat": 17.3942,
+      "lng": 78.3716
+    },
+    {
+      "name": "Cardboard Center 19",
+      "lat": 17.3182,
+      "lng": 78.3849
+    },
+    {
+      "name": "Cardboard Center 20",
+      "lat": 17.4144,
+      "lng": 78.4684
+    },
+    {
+      "name": "Cardboard Center 21",
+      "lat": 17.3183,
+      "lng": 78.3731
+    },
+    {
+      "name": "Cardboard Center 22",
+      "lat": 17.3618,
+      "lng": 78.482
+    },
+    {
+      "name": "Cardboard Center 23",
+      "lat": 17.3857,
+      "lng": 78.3688
+    },
+    {
+      "name": "Cardboard Center 24",
+      "lat": 17.3613,
+      "lng": 78.4497
+    },
+    {
+      "name": "Cardboard Center 25",
+      "lat": 17.3695,
+      "lng": 78.4914
+    },
+    {
+      "name": "Cardboard Center 26",
+      "lat": 17.3202,
+      "lng": 78.4082
+    },
+    {
+      "name": "Cardboard Center 27",
+      "lat": 17.4483,
+      "lng": 78.3772
+    },
+    {
+      "name": "Cardboard Center 28",
+      "lat": 17.4471,
+      "lng": 78.4078
+    },
+    {
+      "name": "Cardboard Center 29",
+      "lat": 17.3644,
+      "lng": 78.5376
+    },
+    {
+      "name": "Cardboard Center 30",
+      "lat": 17.341,
+      "lng": 78.5178
+    },
+    {
+      "name": "Cardboard Center 31",
+      "lat": 17.3838,
+      "lng": 78.4613
+    },
+    {
+      "name": "Cardboard Center 32",
+      "lat": 17.4642,
+      "lng": 78.5276
+    },
+    {
+      "name": "Cardboard Center 33",
+      "lat": 17.3406,
+      "lng": 78.5555
+    },
+    {
+      "name": "Cardboard Center 34",
+      "lat": 17.3559,
+      "lng": 78.5549
+    },
+    {
+      "name": "Cardboard Center 35",
+      "lat": 17.4467,
+      "lng": 78.37
+    },
+    {
+      "name": "Cardboard Center 36",
+      "lat": 17.3004,
+      "lng": 78.5228
+    },
+    {
+      "name": "Cardboard Center 37",
+      "lat": 17.4857,
+      "lng": 78.4831
+    },
+    {
+      "name": "Cardboard Center 38",
+      "lat": 17.4423,
+      "lng": 78.4115
+    },
+    {
+      "name": "Cardboard Center 39",
+      "lat": 17.4702,
+      "lng": 78.4245
+    },
+    {
+      "name": "Cardboard Center 40",
+      "lat": 17.3736,
+      "lng": 78.4025
+    },
+    {
+      "name": "Cardboard Center 41",
+      "lat": 17.4349,
+      "lng": 78.5034
+    },
+    {
+      "name": "Cardboard Center 42",
+      "lat": 17.4284,
+      "lng": 78.5445
+    },
+    {
+      "name": "Cardboard Center 43",
+      "lat": 17.4026,
+      "lng": 78.5475
+    },
+    {
+      "name": "Cardboard Center 44",
+      "lat": 17.355,
+      "lng": 78.5554
+    },
+    {
+      "name": "Cardboard Center 45",
+      "lat": 17.332,
+      "lng": 78.3761
+    }
+  ],
+  "e-waste": [
+    {
+      "name": "E Waste Center 1",
+      "lat": 17.4735,
+      "lng": 78.4038
+    },
+    {
+      "name": "E Waste Center 2",
+      "lat": 17.3123,
+      "lng": 78.452
+    },
+    {
+      "name": "E Waste Center 3",
+      "lat": 17.3466,
+      "lng": 78.3729
+    },
+    {
+      "name": "E Waste Center 4",
+      "lat": 17.4678,
+      "lng": 78.4281
+    },
+    {
+      "name": "E Waste Center 5",
+      "lat": 17.4014,
+      "lng": 78.541
+    },
+    {
+      "name": "E Waste Center 6",
+      "lat": 17.3479,
+      "lng": 78.4895
+    },
+    {
+      "name": "E Waste Center 7",
+      "lat": 17.3708,
+      "lng": 78.5163
+    },
+    {
+      "name": "E Waste Center 8",
+      "lat": 17.453,
+      "lng": 78.5432
+    },
+    {
+      "name": "E Waste Center 9",
+      "lat": 17.3222,
+      "lng": 78.5331
+    },
+    {
+      "name": "E Waste Center 10",
+      "lat": 17.3952,
+      "lng": 78.3823
+    },
+    {
+      "name": "E Waste Center 11",
+      "lat": 17.3316,
+      "lng": 78.4619
+    },
+    {
+      "name": "E Waste Center 12",
+      "lat": 17.3107,
+      "lng": 78.4087
+    },
+    {
+      "name": "E Waste Center 13",
+      "lat": 17.3405,
+      "lng": 78.524
+    },
+    {
+      "name": "E Waste Center 14",
+      "lat": 17.465,
+      "lng": 78.4838
+    },
+    {
+      "name": "E Waste Center 15",
+      "lat": 17.4468,
+      "lng": 78.4677
+    },
+    {
+      "name": "E Waste Center 16",
+      "lat": 17.3498,
+      "lng": 78.5236
+    },
+    {
+      "name": "E Waste Center 17",
+      "lat": 17.3465,
+      "lng": 78.3888
+    },
+    {
+      "name": "E Waste Center 18",
+      "lat": 17.3726,
+      "lng": 78.451
+    },
+    {
+      "name": "E Waste Center 19",
+      "lat": 17.3966,
+      "lng": 78.459
+    },
+    {
+      "name": "E Waste Center 20",
+      "lat": 17.4645,
+      "lng": 78.3772
+    },
+    {
+      "name": "E Waste Center 21",
+      "lat": 17.4595,
+      "lng": 78.4223
+    },
+    {
+      "name": "E Waste Center 22",
+      "lat": 17.3867,
+      "lng": 78.4604
+    },
+    {
+      "name": "E Waste Center 23",
+      "lat": 17.3535,
+      "lng": 78.444
+    },
+    {
+      "name": "E Waste Center 24",
+      "lat": 17.4497,
+      "lng": 78.5562
+    },
+    {
+      "name": "E Waste Center 25",
+      "lat": 17.3215,
+      "lng": 78.4317
+    },
+    {
+      "name": "E Waste Center 26",
+      "lat": 17.418,
+      "lng": 78.439
+    },
+    {
+      "name": "E Waste Center 27",
+      "lat": 17.4677,
+      "lng": 78.4184
+    },
+    {
+      "name": "E Waste Center 28",
+      "lat": 17.3582,
+      "lng": 78.5025
+    },
+    {
+      "name": "E Waste Center 29",
+      "lat": 17.4253,
+      "lng": 78.5521
+    },
+    {
+      "name": "E Waste Center 30",
+      "lat": 17.3665,
+      "lng": 78.5149
+    },
+    {
+      "name": "E Waste Center 31",
+      "lat": 17.3998,
+      "lng": 78.4012
+    },
+    {
+      "name": "E Waste Center 32",
+      "lat": 17.4492,
+      "lng": 78.4947
+    },
+    {
+      "name": "E Waste Center 33",
+      "lat": 17.4797,
+      "lng": 78.3931
+    },
+    {
+      "name": "E Waste Center 34",
+      "lat": 17.3366,
+      "lng": 78.4357
+    },
+    {
+      "name": "E Waste Center 35",
+      "lat": 17.3924,
+      "lng": 78.3735
+    },
+    {
+      "name": "E Waste Center 36",
+      "lat": 17.3314,
+      "lng": 78.5476
+    },
+    {
+      "name": "E Waste Center 37",
+      "lat": 17.4297,
+      "lng": 78.4784
+    },
+    {
+      "name": "E Waste Center 38",
+      "lat": 17.3435,
+      "lng": 78.5379
+    },
+    {
+      "name": "E Waste Center 39",
+      "lat": 17.3297,
+      "lng": 78.4942
+    },
+    {
+      "name": "E Waste Center 40",
+      "lat": 17.4931,
+      "lng": 78.362
+    },
+    {
+      "name": "E Waste Center 41",
+      "lat": 17.4725,
+      "lng": 78.5402
+    },
+    {
+      "name": "E Waste Center 42",
+      "lat": 17.4062,
+      "lng": 78.3992
+    },
+    {
+      "name": "E Waste Center 43",
+      "lat": 17.4998,
+      "lng": 78.5543
+    },
+    {
+      "name": "E Waste Center 44",
+      "lat": 17.4264,
+      "lng": 78.5342
+    },
+    {
+      "name": "E Waste Center 45",
+      "lat": 17.485,
+      "lng": 78.4189
+    }
+  ],
+  "organic": [
+    {
+      "name": "Organic Center 1",
+      "lat": 17.4351,
+      "lng": 78.3617
+    },
+    {
+      "name": "Organic Center 2",
+      "lat": 17.4139,
+      "lng": 78.3678
+    },
+    {
+      "name": "Organic Center 3",
+      "lat": 17.4701,
+      "lng": 78.5586
+    },
+    {
+      "name": "Organic Center 4",
+      "lat": 17.4536,
+      "lng": 78.5008
+    },
+    {
+      "name": "Organic Center 5",
+      "lat": 17.4653,
+      "lng": 78.3641
+    },
+    {
+      "name": "Organic Center 6",
+      "lat": 17.4911,
+      "lng": 78.4614
+    },
+    {
+      "name": "Organic Center 7",
+      "lat": 17.3141,
+      "lng": 78.4867
+    },
+    {
+      "name": "Organic Center 8",
+      "lat": 17.4672,
+      "lng": 78.5454
+    },
+    {
+      "name": "Organic Center 9",
+      "lat": 17.3137,
+      "lng": 78.3961
+    },
+    {
+      "name": "Organic Center 10",
+      "lat": 17.4018,
+      "lng": 78.5434
+    },
+    {
+      "name": "Organic Center 11",
+      "lat": 17.429,
+      "lng": 78.4046
+    },
+    {
+      "name": "Organic Center 12",
+      "lat": 17.3702,
+      "lng": 78.4355
+    },
+    {
+      "name": "Organic Center 13",
+      "lat": 17.3939,
+      "lng": 78.5343
+    },
+    {
+      "name": "Organic Center 14",
+      "lat": 17.3671,
+      "lng": 78.4911
+    },
+    {
+      "name": "Organic Center 15",
+      "lat": 17.4545,
+      "lng": 78.5003
+    },
+    {
+      "name": "Organic Center 16",
+      "lat": 17.4881,
+      "lng": 78.5297
+    },
+    {
+      "name": "Organic Center 17",
+      "lat": 17.3137,
+      "lng": 78.4552
+    },
+    {
+      "name": "Organic Center 18",
+      "lat": 17.3285,
+      "lng": 78.4977
+    },
+    {
+      "name": "Organic Center 19",
+      "lat": 17.4216,
+      "lng": 78.412
+    },
+    {
+      "name": "Organic Center 20",
+      "lat": 17.3295,
+      "lng": 78.5344
+    },
+    {
+      "name": "Organic Center 21",
+      "lat": 17.4618,
+      "lng": 78.3687
+    },
+    {
+      "name": "Organic Center 22",
+      "lat": 17.4422,
+      "lng": 78.4111
+    },
+    {
+      "name": "Organic Center 23",
+      "lat": 17.4587,
+      "lng": 78.4999
+    },
+    {
+      "name": "Organic Center 24",
+      "lat": 17.4218,
+      "lng": 78.4509
+    },
+    {
+      "name": "Organic Center 25",
+      "lat": 17.3638,
+      "lng": 78.4174
+    },
+    {
+      "name": "Organic Center 26",
+      "lat": 17.4902,
+      "lng": 78.5336
+    },
+    {
+      "name": "Organic Center 27",
+      "lat": 17.3467,
+      "lng": 78.4385
+    },
+    {
+      "name": "Organic Center 28",
+      "lat": 17.4117,
+      "lng": 78.5346
+    },
+    {
+      "name": "Organic Center 29",
+      "lat": 17.3015,
+      "lng": 78.4439
+    },
+    {
+      "name": "Organic Center 30",
+      "lat": 17.4957,
+      "lng": 78.3863
+    },
+    {
+      "name": "Organic Center 31",
+      "lat": 17.3876,
+      "lng": 78.4984
+    },
+    {
+      "name": "Organic Center 32",
+      "lat": 17.4452,
+      "lng": 78.528
+    },
+    {
+      "name": "Organic Center 33",
+      "lat": 17.4837,
+      "lng": 78.5443
+    },
+    {
+      "name": "Organic Center 34",
+      "lat": 17.4323,
+      "lng": 78.4228
+    },
+    {
+      "name": "Organic Center 35",
+      "lat": 17.3685,
+      "lng": 78.481
+    },
+    {
+      "name": "Organic Center 36",
+      "lat": 17.4408,
+      "lng": 78.5227
+    },
+    {
+      "name": "Organic Center 37",
+      "lat": 17.331,
+      "lng": 78.5464
+    },
+    {
+      "name": "Organic Center 38",
+      "lat": 17.4736,
+      "lng": 78.4536
+    },
+    {
+      "name": "Organic Center 39",
+      "lat": 17.4845,
+      "lng": 78.3861
+    },
+    {
+      "name": "Organic Center 40",
+      "lat": 17.389,
+      "lng": 78.555
+    },
+    {
+      "name": "Organic Center 41",
+      "lat": 17.3339,
+      "lng": 78.4246
+    },
+    {
+      "name": "Organic Center 42",
+      "lat": 17.3275,
+      "lng": 78.522
+    },
+    {
+      "name": "Organic Center 43",
+      "lat": 17.4956,
+      "lng": 78.557
+    },
+    {
+      "name": "Organic Center 44",
+      "lat": 17.3099,
+      "lng": 78.3962
+    },
+    {
+      "name": "Organic Center 45",
+      "lat": 17.4343,
+      "lng": 78.4769
+    }
+  ]
+}
