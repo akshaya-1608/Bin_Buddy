@@ -216,7 +216,7 @@ const styles = {
   },
   uploadLabel: {},
   retakeButton: {
-    marginTop: '10px',
+    marginTop: '20px',
     padding: '10px 22px',
     backgroundColor: '#4CAF50',
     color: 'white',
