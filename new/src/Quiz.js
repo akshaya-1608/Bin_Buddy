@@ -64,7 +64,9 @@ const Quiz = ({ onBack }) => {
 
   return (
     <div className="quiz-container">
-      {showScore && <Confetti width={width} height={height} numberOfPieces={300} recycle={false} />}
+      {showScore && score > 3 && (
+  <Confetti width={width} height={height} numberOfPieces={300} recycle={false} />
+)}
 
       {showScore ? (
         <div className="score-section fade-in">
