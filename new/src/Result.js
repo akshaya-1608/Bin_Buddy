@@ -132,45 +132,62 @@ const ResultPage = () => {
         </>
       )}
 
-      <div style={styles.buttonGroup}>
-        <div style={styles.buttonRow}>
-          <button style={styles.button} onClick={() => navigate('/capture')}>
-            🔁 Try Again
-          </button>
+      <div style={styles.buttonRow}>
+  <button style={styles.button} onClick={() => navigate('/capture')}>
+    🔁 Try Again
+  </button>
 
-          {isConfident && prediction === 'organic' && (
-            <button
-              style={{ ...styles.button, backgroundColor: '#03A9F4' }}
-              onClick={() =>
-                window.open(
-                  'https://www.youtube.com/results?search_query=how+to+compost',
-                  '_blank'
-                )
-              }
-            >
-              🌿 See How to Compost
-            </button>
-          )}
+  {/* Confident Prediction: Organic → Show Compost */}
+  {isConfident && prediction === 'organic' && (
+    <button
+      style={{ ...styles.button, backgroundColor: '#03A9F4' }}
+      onClick={() =>
+        window.open(
+          'https://www.youtube.com/results?search_query=how+to+compost',
+          '_blank'
+        )
+      }
+    >
+      🌿 See How to Compost
+    </button>
+  )}
 
-          {isConfident && prediction !== 'organic' && (
-            <button
-              style={{ ...styles.button, backgroundColor: '#2196F3' }}
-              onClick={() => handleDisposalRedirect()}
-            >
-              📍 See where to Dispose
-            </button>
-          )}
-        </div>
+  {/* Confident Prediction: Not Organic → Show Disposal */}
+  {isConfident && prediction !== 'organic' && (
+    <button
+      style={{ ...styles.button, backgroundColor: '#2196F3' }}
+      onClick={() => handleDisposalRedirect(prediction)}
+    >
+      📍 See where to Dispose
+    </button>
+  )}
 
-        {!isConfident && top3[0]?.confidence < 0.6 && selectedCategory && (
-          <button
-            style={{ ...styles.button, backgroundColor: '#2196F3', marginTop: '20px' }}
-            onClick={() => handleDisposalRedirect(selectedCategory)}
-          >
-            📍 See where to Dispose
-          </button>
-        )}
-      </div>
+  {/* Uncertain Prediction + Manual Selection */}
+  {!isConfident && top3[0]?.confidence < 0.6 && selectedCategory && (
+    selectedCategory === 'organic' ? (
+      <button
+        style={{ ...styles.button, backgroundColor: '#03A9F4' }}
+        onClick={() =>
+          window.open(
+            'https://www.youtube.com/results?search_query=how+to+compost',
+            '_blank'
+          )
+        }
+      >
+        🌿 See How to Compost
+      </button>
+    ) : (
+      <button
+        style={{ ...styles.button, backgroundColor: '#2196F3' }}
+        onClick={() => handleDisposalRedirect(selectedCategory)}
+      >
+        📍 See where to Dispose
+      </button>
+    )
+  )}
+</div>
+
+
 
       {isConfident && prediction === 'organic' && <VideoGallery />}
     </div>
