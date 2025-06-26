@@ -31,6 +31,8 @@ const App = () => (
       <Route path="/capture" element={<CapturePage />} />
       <Route path="/result" element={<ResultPage />} />
       <Route path="/dispose" element={<DisposalMap />} />
+      <Route path="/disposal-map" element={<DisposalMap />} />
+
 
     </Routes>
   </Router>

@@ -31,9 +31,12 @@ const ResultPage = () => {
   const isRecyclable = recyclableItems.includes(prediction);
   const tips = tipsByClass[prediction];
 
+  // const handleDisposalRedirect = (category = prediction) => {
+  //   navigate('/dispose', { state: { category } });
+  // };
   const handleDisposalRedirect = (category = prediction) => {
-    navigate('/dispose', { state: { category } });
-  };
+  navigate('/disposal-map', { state: { category: category.toLowerCase() } });
+};
 
   if (showQuiz) {
     return (
